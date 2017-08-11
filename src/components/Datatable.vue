@@ -1,0 +1,11 @@
+<template>
+    <div>
+        <table>
+            <thead>
+            <tr>
+                <td>testing</td>
+            </tr>
+            </thead>
+        </table>
+    </div>
+</template>
