@@ -1,6 +1,6 @@
 {
   "name": "vuejs-datatables",
-  "version": "1.0.9",
+  "version": "1.0.13",
   "description": "A Vuejs 2 component for DataTables.",
   "main": "lib/install.js",
   "dependencies": {
